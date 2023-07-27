@@ -4,7 +4,7 @@ This repository contains the Python code and solutions to the exercises of the b
 
 The chapters cover the following topics:
 
-[ ] What is statistical learning?
+[X] What is statistical learning?
 
 [ ] Regression
 
